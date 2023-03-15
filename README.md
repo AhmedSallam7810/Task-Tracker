@@ -9,7 +9,7 @@ Small React project with json-server package as  a full fake REST API
 npm install
 ```
 
-### Then run React dev server (http://localhost:3000) && JSON server (http://localhost:5000) by on command
+### Then run React dev server (http://localhost:3000) && JSON server (http://localhost:5000) by one command
 
 ```
 npm run watch
